@@ -1,3 +1,6 @@
+Frontend Deployment
+https://frontend-h6fyxjr1x-adis-projects-ed4cc149.vercel.app
+
 Objective   
 Build and host a REST API (Method: POST) that takes in an array and returns the 
 following:  
