@@ -1,16 +1,24 @@
 {
   "name": "bfhl-api",
   "version": "1.0.0",
-  "description": "REST API for VIT Full-stack test",
-  "main": "server.js",
+  "description": "Objective   \r Build and host a REST API (Method: POST) that takes in an array and returns the \r following:  \r 1. Status  \r 2. User ID  \r 3. Email ID  \r 4. College Roll Number  \r 5. Array for even numbers  \r 6. Array for odd numbers  \r 7. Array for alphabets, converted to uppercase  \r 8. Array for special characters  \r 9. Sum of numbers  \r 10. Concatenation of all alphabetical characters present in the input in the reverse \r order in alternating caps",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "express": "^4.21.2"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoWon1/bfhl-api.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NoWon1/bfhl-api/issues"
+  },
+  "homepage": "https://github.com/NoWon1/bfhl-api#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
